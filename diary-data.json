@@ -1,24 +1,7 @@
 {
-  "diaries": {
-    "2025-09-04": {
-      "title": "첫 기사",
-      "content": "연동돼라..",
-      "author": "기자",
-      "date": "2025-09-04",
-      "timestamp": "2025-08-26T07:02:16.500Z",
-      "isAutoSaved": false
-    },
-    "2025-09-05": {
-      "title": "c",
-      "content": "c",
-      "author": "c",
-      "date": "2025-09-05",
-      "timestamp": "2025-08-26T07:03:32.448Z",
-      "isAutoSaved": false
-    }
-  },
+  "diaries": {},
   "boardPosts": [],
   "schedules": {},
-  "exportDate": "2025-08-26T07:03:35.461Z",
+  "exportDate": "2025-08-26T07:04:20.768Z",
   "version": "1.0"
 }
