@@ -1,7 +1,16 @@
 {
-  "diaries": {},
+  "diaries": {
+    "2025-09-04": {
+      "title": "첫 기사",
+      "content": "연동돼라..",
+      "author": "기자",
+      "date": "2025-09-04",
+      "timestamp": "2025-08-26T07:02:16.500Z",
+      "isAutoSaved": false
+    }
+  },
   "boardPosts": [],
   "schedules": {},
-  "exportDate": "2025-08-26T07:01:50.322Z",
+  "exportDate": "2025-08-26T07:02:19.509Z",
   "version": "1.0"
 }
