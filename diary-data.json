@@ -1,11 +1,20 @@
 {
-  "diaries": {},
+  "diaries": {
+    "2025-09-01": {
+      "title": "1910 8.28 기념일",
+      "content": "오늘은 9.1이 아니지만 이렇게 씁니다 1910년 8.28 일제 강점기때 한일조약으로 대한제국 외교권을 빼앚긴날입니다 이런 슬픈날을 왜 기념하는것은 바로 우리나라 역사에서는 가장 중요한 날이기 때문입니다 여러분들이 이런슬픈일을 기억하면 좋겠습니다",
+      "author": "정유건",
+      "date": "2025-09-01",
+      "timestamp": "2025-08-29T05:35:11.898Z",
+      "isAutoSaved": false
+    }
+  },
   "boardPosts": [],
   "schedules": {},
-  "exportDate": "2025-08-29T04:46:53.367Z",
+  "exportDate": "2025-08-29T05:35:14.905Z",
   "version": "1.0",
   "deviceInfo": {
     "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/28.0 Chrome/130.0.0.0 Safari/537.36",
-    "timestamp": "2025-08-29T04:46:53.367Z"
+    "timestamp": "2025-08-29T05:35:14.906Z"
   }
 }
